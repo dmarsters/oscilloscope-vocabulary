@@ -181,9 +181,9 @@ def create_server() -> FastMCP:
 
 def main():
     """Run the MCP server."""
-    server = create_server()
-    server.run()
+    return create_server()
 
 
 if __name__ == "__main__":
-    main()
+    server = create_server()
+    server.run()
