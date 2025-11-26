@@ -10,7 +10,7 @@ from fastmcp import FastMCP
 import json
 from typing import Dict, List
 
-from .layers import (
+from oscilloscope_vocabulary.layers import (
     HarmonicProfiles,
     ConstraintLevels,
     ColorExtractor,
