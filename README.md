@@ -27,7 +27,7 @@ python -m oscilloscope_vocabulary.server
 
 - [ARCHITECTURE.md](docs/ARCHITECTURE.md) - System design and workflows
 - [EXAMPLES.md](docs/EXAMPLES.md) - Real-world examples
-- [INTEGRATION.md](docs/INTEGRATION.md) - Lushy integration guide
+- Part of the Lushy.app Visual Vocabulary ecosystem
 
 ## Project Structure
 
@@ -45,3 +45,8 @@ oscilloscope-vocabulary/
 ├── pyproject.toml
 └── create_structure.sh / verify_structure.sh
 ```
+## License
+MIT
+
+## Author
+Dal Marsters
